@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+bootstrapjumbo4/__init__.py
+bootstrapjumbo4/admin.py
+bootstrapjumbo4/apps.py
+bootstrapjumbo4/models.py
+bootstrapjumbo4/tests.py
+bootstrapjumbo4/urls.py
+bootstrapjumbo4/views.py
+bootstrapjumbo4/migrations/__init__.py
+django_jumbotron4.egg-info/PKG-INFO
+django_jumbotron4.egg-info/SOURCES.txt
+django_jumbotron4.egg-info/dependency_links.txt
+django_jumbotron4.egg-info/top_level.txt
